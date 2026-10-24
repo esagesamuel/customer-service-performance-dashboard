@@ -1,0 +1,24 @@
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Microsoft Office temporary files
+~$*
+*.tmp
+
+# Power BI temporary files
+*.pbix.autosave
+*.pbit.autosave
+
+# Credentials and environment files
+.env
+.env.*
+*.credentials
+secrets.*
+
+# Editors
+.vscode/
+.idea/
+
+# Logs
+*.log

@@ -1,0 +1,5 @@
+"ticket_priority","total_tickets","resolved_tickets","resolution_rate_percentage","rated_tickets","average_csat","average_post_response_resolution_hours"
+"Medium",2192,694,31.66,694,2.98,7.17
+"Critical",2129,726,34.10,726,2.96,7.15
+"High",2085,705,33.81,705,2.98,8.07
+"Low",2063,644,31.22,644,3.05,7.95
